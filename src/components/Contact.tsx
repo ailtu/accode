@@ -37,7 +37,7 @@ const contacts = [
         name: "Instagram",
         description: "Professional profile",
         icon: FaInstagram,
-        href: "", // TODO: Add your professional Instagram URL
+        href: "https://www.instagram.com/accodesoftware",
     },
 ];
 
