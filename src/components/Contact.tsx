@@ -19,19 +19,19 @@ const contacts = [
         name: "99Freelas",
         description: "Freelance opportunities",
         icon: BriefcaseBusiness,
-        href: "", // TODO: Add your 99Freelas profile URL
+        href: "https://www.99freelas.com.br/user/ailtonasantos",
     },
     {
         name: "GitHub",
         description: "Projects and repositories",
         icon: FaGithub,
-        href: "", // TODO: Add your GitHub profile URL
+        href: "https://github.com/ailtu",
     },
     {
         name: "LinkedIn",
         description: "Professional network",
         icon: FaLinkedin,
-        href: "", // TODO: Add your LinkedIn profile URL
+        href: "https://www.linkedin.com/in/ailton-santos-7987a51a2/",
     },
     {
         name: "Instagram",
@@ -69,8 +69,8 @@ export default function Contact() {
                         </h2>
 
                         <p className="mt-8 max-w-sm text-sm leading-relaxed text-neutral-400 md:text-base">
-                            Have a project in mind? I&apos;d love to hear
-                            about it. Let&apos;s create something meaningful.
+                            Tem um projeto em mente? Adoraria ouvir mais a respeito.
+                            Vamos criar algo significativo.
                         </p>
                     </motion.div>
 

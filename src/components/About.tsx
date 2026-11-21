@@ -14,16 +14,16 @@ const content = {
         description:
             "I'm a software developer based in Recife, Brazil, with experience in IT operations and system development. I enjoy turning real-world problems into practical digital solutions.",
         information:
-            "RECIFE, BRAZIL · INTERNET SYSTEMS · IT & DEVELOPMENT",
+            "COMPUTER SCIENCE · INTERNET SYSTEMS · IT & DEVELOPMENT",
         languages: "PORTUGUESE · ENGLISH",
     },
     pt: {
         label: "02 / SOBRE MIM",
         greeting: "Olá, sou Ailton.",
         description:
-            "Sou desenvolvedor de software, baseado em Recife, Brasil, com experiência em operações de TI e desenvolvimento de sistemas. Gosto de transformar problemas reais em soluções digitais práticas.",
+            "Sou desenvolvedor de software, nascido em Recife, Brasil, com experiência em operações de TI e desenvolvimento de sistemas. Gosto de transformar problemas reais em soluções digitais práticas.",
         information:
-            "RECIFE, BRASIL · SISTEMAS PARA INTERNET · TI E DESENVOLVIMENTO",
+            "CIENCIA DA COMPUTAÇÃO · SISTEMAS PARA INTERNET · TI E DESENVOLVIMENTO",
         languages: "PORTUGUÊS · INGLÊS",
     },
 };
